@@ -1,0 +1,32 @@
+#mydiv {
+  border: 1px solid black;
+  align-items: 5px;
+  text-align: center;
+  margin: 60px;
+  font-size: 20px;
+  padding: 10px;
+}
+
+#appheading {
+  color: #003380;
+  font-style: italic;
+  text-align: center;
+  font-size: 30px;
+}
+
+.btn {
+  background-color: #003380;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.input1 {
+  padding: 15px 32px;
+}
